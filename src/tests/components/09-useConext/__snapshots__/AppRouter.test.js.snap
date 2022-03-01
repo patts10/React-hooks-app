@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests on <AppRouter /> should show correctly 1`] = `
+<div>
+  <nav
+    className="relative w-full flex flex-wrap items-center justify-between py-3 bg-gray-900 text-gray-200 shadow-lg navbar navbar-expand-lg navbar-light"
+  >
+    <div
+      className="container-fluid w-full flex flex-wrap items-center justify-between px-6"
+    >
+      <div
+        className="collapse navbar-collapse flex flex-row items-center"
+        id="navbarSupportedContent1"
+      >
+        <a
+          className="text-xl text-white pr-2 font-semibold"
+          href="/"
+          onClick={[Function]}
+        >
+          useContext
+        </a>
+        <ul
+          className="navbar-nav flex flex-row pl-0 list-style-none mr-auto"
+        >
+          <li
+            className="nav-item p-2"
+          >
+            <a
+              aria-current="page"
+              className="nav-item active"
+              href="/"
+              onClick={[Function]}
+            >
+              Home
+            </a>
+          </li>
+          <li
+            className="nav-item p-2"
+          >
+            <a
+              className="nav-item opacity-60 hover:opacity-90 focus:opacity-80 p-0"
+              href="/login"
+              onClick={[Function]}
+            >
+              Login
+            </a>
+          </li>
+          <li
+            className="nav-item p-2"
+          >
+            <a
+              className="nav-item opacity-60 hover:opacity-90 focus:opacity-80 p-0"
+              href="/about"
+              onClick={[Function]}
+            >
+              About
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div
+    className="ml-5"
+  >
+    Array [
+      <h1>
+        HomeScreen
+      </h1>,
+      <hr />,
+      <pre>
+        {
+   "id": 123,
+   "name": "Patts"
+}
+      </pre>,
+    ]
+  </div>
+</div>
+`;

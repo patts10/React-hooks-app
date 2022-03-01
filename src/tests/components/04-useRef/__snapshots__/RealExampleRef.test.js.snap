@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests on <RealExampleRef /> should show correctly 1`] = `
+<Fragment>
+  <h1>
+    Real Ref
+  </h1>
+  <hr />
+  <button
+    className="px-6 py-2.5 ml-3 bg-white text-blue-600 hover:text-white font-medium text-xs border border-blue-600 leading-tight rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
+    onClick={[Function]}
+  >
+    Show/Hide
+  </button>
+</Fragment>
+`;
